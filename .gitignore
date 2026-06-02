@@ -1,0 +1,11 @@
+# macOS / Windows / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Original raw bundle (renamed copy lives in downloads/)
+Claude Skills Ultimate Bundle-20260602T113259Z-3-001.zip
